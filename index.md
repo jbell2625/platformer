@@ -9,21 +9,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Below are some Details about the game which you may find interesting or have questions about.
 
 ```markdown
-Syntax highlighted code block
+Name: Vape Nation 
+Link to Repository: [Click here](https://github.com/jbell2625/platformer)
+Once downloaded, install the latest version of python, as well as Atom, if youd like to edit the levels.
+Collect coins and vape juice bottles,  avoid the boss vapes and bad juice globs, and work your way to the end!
+Use the Numpad for movement, and the Spacebar for jumping. 
+Hint:Jumping is a huge deal in most levels in order to make it to the end alive!
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+![Image](src)
 ```
 
 
