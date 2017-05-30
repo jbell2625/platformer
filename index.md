@@ -16,6 +16,7 @@ Collect coins and vape juice bottles,  avoid the boss vapes and bad juice globs,
 Use the Numpad for movement, and the Spacebar for jumping. 
 Hint:Jumping is a huge deal in most levels in order to make it to the end alive!
 Screenshot Links:
+![alt tag](/screenshots/cap2)
 
 
 
