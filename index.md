@@ -10,16 +10,12 @@ Below are some Details about the game which you may find interesting or have que
 
 ```markdown
 Name: Vape Nation 
-Link to Repository: [Click here](https://github.com/jbell2625/platformer)
+Link to Repository:(https://github.com/jbell2625/platformer)
 Once downloaded, install the latest version of python, as well as Atom, if youd like to edit the levels.
 Collect coins and vape juice bottles,  avoid the boss vapes and bad juice globs, and work your way to the end!
 Use the Numpad for movement, and the Spacebar for jumping. 
 Hint:Jumping is a huge deal in most levels in order to make it to the end alive!
-
-
-
-![Image](src)
-```
+Screenshot Links:
 
 
 
