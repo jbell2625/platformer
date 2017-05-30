@@ -1,0 +1,54 @@
+{
+	"name": "World 2",
+	"width": 65,
+	"height": 10,
+	"background-color": [130, 182, 255],
+	"background-img": "assets/backgrounds/clouds.png",
+	"background-position": "top",
+	"background-repeat-x": 1,
+	"background-fill-y": 1,
+	"scenery-img": "assets/backgrounds/mountains.png",
+	"scenery-position": "bottom",
+	"scenery-repeat-x": 1,
+	"scenery-fill-y": 1,
+	"music": "assets/sounds/theme_of_the wanderer.ogg",
+	"start": [4, 8],
+	"gravity": 1.0,
+	"terminal-velocity": 32,
+	"blocks": [[0, 9, "TM2"], [1, 9, "TM2"], [2, 9, "TM2"], [3, 9, "TM2"], [4, 9, "TM2"],
+	           [5, 9, "TM2"], [6, 9, "TM2"], [7, 9, "TM2"], [8, 9, "TM2"], [9, 9, "TM2"],
+						 [10, 9, "TM2"], [11, 9, "TM2"], [12, 9, "TM2"], [13, 9, "TM2"], [14, 9, "TM2"],
+						 [15, 9, "TM2"], [16, 9, "TM2"], [17, 9, "TM2"], [18, 9, "TM2"], [19, 9, "TM2"],
+						 [20, 9, "TM2"], [21, 9, "TM2"], [22, 9, "TM2"], [23, 9, "TM2"], [24, 9, "TM2"],
+						 [25, 9, "TM2"], [26, 9, "TM2"], [27, 9, "TM2"], [28, 9, "TM2"], [29, 9, "TM2"],
+						 [30, 9, "TM2"], [31, 9, "TM2"],
+
+						 [3, 2, "TL2"], [4, 2, "TM2"], [5, 2, "TR2"],
+
+						 [8, 3, "TL2"], [14, 3, "TR2"],
+
+						 [3, 9, "LF2"], [4, 8, "LF2"], [8, 7, "LF2"], [9, 7, "LF2"],
+
+						 [11, 5, "TL2"], [12, 5, "TM2"],
+
+						 [14, 8, "TM2"],
+
+						 [19, 3, "TM2"], [20, 3, "TR2"], [21, 3, "TR2"],
+
+						 [24, 5, "TM2"],
+
+						 [26, 3, "TM2"], [27, 3, "CN2"], [28, 3, "CN2"],
+
+						 [30, 4, "TP2"], [38, 4, "CN2"],
+
+						 [33, 3, "CN2"], [34, 3, "CN2"], [35, 3, "CN2"]],
+
+
+
+	"bears": [[8, 4], [13, 8]],
+	"monsters": [[24, 4], [30, 3], [38, 3]],
+  "coins": [[4, 1], [27, 2], [16, 2], [20, 7]],
+	"oneups": [[8, 2]],
+	"hearts": [[18, 2]],
+	"flag": [[30, 5], [30, 6], [30, 7], [30, 8]]
+}
