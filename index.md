@@ -15,8 +15,7 @@ Once downloaded, install the latest version of python, as well as Atom, if youd 
 Collect coins and vape juice bottles,  avoid the boss vapes and bad juice globs, and work your way to the end!
 Use the Numpad for movement, and the Spacebar for jumping. 
 Hint:Jumping is a huge deal in most levels in order to make it to the end alive!
-Screenshot Links:
-![alt tag](/screenshots/cap2)
+Going into the Repository displays an array of beautiful screenshots!
 
 
 
